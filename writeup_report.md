@@ -31,7 +31,7 @@ This is the writeup.
 
 ### Histogram of Oriented Gradients (HOG)
 
-####1. Explain how (and identify where in your code) you extracted HOG features from the training images.
+#### 1. Explain how (and identify where in your code) you extracted HOG features from the training images.
 
 The code for this step is contained in the section named "Step 2" of the IPython notebook located in "./P5.ipynb". 
 
